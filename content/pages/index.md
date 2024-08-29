@@ -21,7 +21,7 @@ sections:
       and many more.
     actions:
       - label: More info
-        altText: ''
+        altText: rerge
         url: /
         showIcon: false
         icon: arrowRight
