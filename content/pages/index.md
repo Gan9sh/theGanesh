@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See T
+      - label: ''
         altText: ''
         url: /
         showIcon: true
