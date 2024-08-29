@@ -22,7 +22,7 @@ sections:
     actions:
       - label: More info
         altText: Contact
-        url: /
+        url: 'https://calendly.com/ganesh-walker-official'
         showIcon: false
         icon: arrowRight
         iconPosition: right
