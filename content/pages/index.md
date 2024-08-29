@@ -20,7 +20,7 @@ sections:
 
       and many more.
     actions:
-      - label: Get started
+      - label: Hire me
         altText: ''
         url: /
         showIcon: false
