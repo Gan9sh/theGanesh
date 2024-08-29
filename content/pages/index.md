@@ -9,9 +9,16 @@ sections:
       type: TitleBlock
     subtitle: Video Editor || Motion Designer
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Doing btech, with a passion for filmmaking and storytelling. Eager to
+      leverage creativity and
+
+      enthusiasm to contribute to the visual narrative world. I have studied
+      video editing for more than two years, I have learned a
+
+      lot, and I have had many valuable experiences ranging from video editing,
+      holding a camera, creating animation
+
+      and many more.
     actions:
       - label: Get started
         altText: ''
